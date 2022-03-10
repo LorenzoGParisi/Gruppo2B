@@ -14,6 +14,7 @@ public class HelloWorld {
 		System.out.println("Ciao, sono Lorenzo Parisi");
 	}
 	public static void marcelloBorio(){
+		System.out.println("Ciao, sono Marcello Borio");
 	}
 	public static void leonardoCionchi(){
 	}
