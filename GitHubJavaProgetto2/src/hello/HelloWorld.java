@@ -23,6 +23,7 @@ public class HelloWorld {
 		System.out.println("Ciao, sono Matteo Squarotti");
 	}
 	public static void matteoMezzanotte(){
+		System.out.println("Ciao, sono Matteo Mezzanotte");
 	}
 	public static void marcoAstolfi(){
 		System.out.println("Ciao, sono Marco Astolfi");
