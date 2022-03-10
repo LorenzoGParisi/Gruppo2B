@@ -22,5 +22,6 @@ public class HelloWorld {
 	public static void matteoMezzanotte(){
 	}
 	public static void marcoAstolfi(){
+		System.out.println("Ciao, sono Marco Astolfi");
 	}
 }
