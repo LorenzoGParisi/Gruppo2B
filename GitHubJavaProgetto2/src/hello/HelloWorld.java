@@ -18,6 +18,7 @@ public class HelloWorld {
 	public static void leonardoCionchi(){
 	}
 	public static void matteoSquarotti(){
+		System.out.println("Ciao, sono Matteo Squarotti");
 	}
 	public static void matteoMezzanotte(){
 	}
